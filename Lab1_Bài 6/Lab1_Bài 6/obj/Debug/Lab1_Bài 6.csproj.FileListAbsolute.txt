@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\Lab1_Bài 6\Lab1_Bài 6\bin\Debug\Lab1_Bài 6.exe.config
+C:\Users\acer\Desktop\Lab1_Bài 6\Lab1_Bài 6\bin\Debug\Lab1_Bài 6.exe
+C:\Users\acer\Desktop\Lab1_Bài 6\Lab1_Bài 6\bin\Debug\Lab1_Bài 6.pdb
+C:\Users\acer\Desktop\Lab1_Bài 6\Lab1_Bài 6\obj\Debug\Lab1_Bài 6.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Lab1_Bài 6\Lab1_Bài 6\obj\Debug\Lab1_Bài 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Desktop\Lab1_Bài 6\Lab1_Bài 6\obj\Debug\Lab1_Bài_6.Bai6_QLD.resources
+C:\Users\acer\Desktop\Lab1_Bài 6\Lab1_Bài 6\obj\Debug\Lab1_Bài_6.Properties.Resources.resources
+C:\Users\acer\Desktop\Lab1_Bài 6\Lab1_Bài 6\obj\Debug\Lab1_Bài 6.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Lab1_Bài 6\Lab1_Bài 6\obj\Debug\Lab1_Bài 6.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Lab1_Bài 6\Lab1_Bài 6\obj\Debug\Lab1_Bài 6.exe
+C:\Users\acer\Desktop\Lab1_Bài 6\Lab1_Bài 6\obj\Debug\Lab1_Bài 6.pdb
